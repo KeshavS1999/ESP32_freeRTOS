@@ -1,2 +1,2 @@
-# Internship2022Dec
+# Esp32-API
 API call using esp32 in freeRTOS framework. Download the latest data from the API in JSON format and perform query on it.
